@@ -1,5 +1,24 @@
 # 💫 About Me:
-🚀 Full Stack Web Developer | React.js, Node.js & Python Enthusiast<br>💻 2.7+ years building modern web apps with React, Redux, HTML, CSS & JS<br>🗄️ Experienced with Node.js, Express.js, MongoDB & Firebase<br>🔧 CI/CD, Docker, GitHub Workflows & Performance Optimization<br>🎨 Freelance Web Developer @ InnovoWeb Solutions<br>🤖 Passionate about micro Python compilers, AI integration, and interactive web apps
+Hi! I'm **Tushar Kanti Das**, a passionate **Full Stack Web Developer** from West Bengal, India.  
+
+I have **2.7+ years of experience** building modern web applications using:
+
+- **Frontend:** React.js, Redux, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, Firebase  
+- **Tools & Technologies:** Git, Docker, CI/CD, Nginx, Performance Optimization  
+
+I enjoy creating **dynamic, responsive, and scalable web apps**. I also work as a freelancer under **InnovoWeb Solutions**, building custom web solutions for clients.  
+
+Currently, I’m exploring:
+
+- Micro Python compilers  
+- AI integration for web apps  
+- Real-time applications and interactive dashboards  
+
+💡 I love learning new technologies and improving my skills every day!  
+
+Feel free to check out my repositories to see my projects in action. 🚀  
 
 
 ## 🌐 Socials:
