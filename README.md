@@ -3,8 +3,8 @@ Hi! I'm **Tushar Kanti Das**, a passionate **Full Stack Web Developer** from Wes
 
 I have **2.7+ years of experience** building modern web applications using:
 
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js, Redux, JavaScript(ES6+), TypeScript, HTML5, CSS3, WebRTC, Contex API, Material UI, Tailwind CSS
+- **Backend:** Node.js, Express.js,  Socket.IO, JWT, JSON, Rest API
 - **Databases:** MongoDB, Firebase  
 - **Tools & Technologies:** Git, Docker, CI/CD, Nginx, Performance Optimization  
 
@@ -12,7 +12,7 @@ I enjoy creating **dynamic, responsive, and scalable web apps**. I also work as 
 
 Currently, I’m exploring:
 
-- Micro Python compilers  
+- Web compilers  
 - AI integration for web apps  
 - Real-time applications and interactive dashboards  
 
