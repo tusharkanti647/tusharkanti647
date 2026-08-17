@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm **Tushar Kanti Das**, a passionate **Full Stack Web Developer** from West Bengal, India.  
 
-I have **2.7+ years of experience** building modern web applications using:
+I have **3+ years of experience** building modern web applications using:
 
 - **Frontend:** React.js, Redux, JavaScript(ES6+), TypeScript, HTML5, CSS3, WebRTC, Contex API, Material UI, Tailwind CSS
 - **Backend:** Node.js, Express.js,  Socket.IO, JWT, JSON, Rest API
